@@ -9,6 +9,6 @@ WHERE
 
 /*
     결과의 컬럼명은 AVERAGE_FEE
-    DAILY_FEE(일일 대여 요금)의 평균 = AVG(DAILY_FEE)
+    일일 대여 요금(DAILY_FEE) 평균 = AVG(DAILY_FEE)
     근데 그러면 소수점으로 떨어지니까 반올림 해준다.
 */
